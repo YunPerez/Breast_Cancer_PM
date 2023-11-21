@@ -1,0 +1,6 @@
+all_rays_dir/
+datasets/
+image_processing/
+test_dir/
+train_dir/
+archive.zip
